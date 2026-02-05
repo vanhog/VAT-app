@@ -17,7 +17,7 @@ This is a solution to the [OpenCampus WebDev Program 2025's ](https://edu.openca
 
 ### Links
 
-- Solution URL:[ https://github.com/vanhog/ocwebdev_ac_vatapp](https://github.com/vanhog/VAT-app)
+- Solution URL:[ https://github.com/vanhog/VAT-app](https://github.com/vanhog/VAT-app)
 - Live Site URL: [https://dees-ocwebdev-vat-app.netlify.app/](https://dees-ocwebdev-vat-app.netlify.app/)
 
 ### Built with
