@@ -1,6 +1,8 @@
 # VAT Calculator
 
-This is a solution to the [OpenCampus WebDev Program 2025's ](https://edu.opencampus.sh/en) VAT calculator challenge.  
+**For training use only. Do not use in production. No warranty.**
+
+This is a solution to the [OpenCampus WebDev Program 2025's ](https://edu.opencampus.sh/en) VAT calculator challenge.
 
 ## Table of contents
 
@@ -9,16 +11,13 @@ This is a solution to the [OpenCampus WebDev Program 2025's ](https://edu.openca
 - [Built with](#built-with)
 - [Author](#author)
 
-
-
 ### Screenshot
 
 ![](./images/screenshot.png)
 
-
 ### Links
 
-- Solution URL:[ https://github.com/vanhog/ocwebdev_ac_vatapp](https://github.com/vanhog/ocwebdev_ac_vatapp)
+- Solution URL:[ https://github.com/vanhog/ocwebdev_ac_vatapp](https://github.com/vanhog/VAT-app)
 - Live Site URL: [https://dees-ocwebdev-vat-app.netlify.app/](https://dees-ocwebdev-vat-app.netlify.app/)
 
 ### Built with
@@ -29,7 +28,6 @@ This is a solution to the [OpenCampus WebDev Program 2025's ](https://edu.openca
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
 
 ## Author
 
